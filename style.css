@@ -1,0 +1,10 @@
+
+body {
+    font-family: Century Gothic;
+}
+.container-fluid{
+    height: 100vh;
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.829);
+}
